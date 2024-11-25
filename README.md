@@ -1,7 +1,6 @@
 # Este repositorotio con tiene:
 
-# Practicas con el lenguaje Javascript
-
+Practicas con el lenguaje Javascript
 Contiene:
 - Dibujo de una casa con Canvas.
 - Contador de numeros que incrementa y decrementa el valor.
