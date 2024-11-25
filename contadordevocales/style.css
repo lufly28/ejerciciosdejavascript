@@ -1,0 +1,23 @@
+*{
+    background-color: deepskyblue;
+    display: flexbox;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    
+}
+
+h2{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+button{
+    background-color: whitesmoke;
+    margin-bottom: 30%;
+    align-items: center;
+    border-radius: 30px;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,39 @@
+/* style.css */
+*{
+        display: flexbox;
+        justify-content: center;
+        align-items: center;
+        position: relative;  
+        margin: 2%;  
+}
+
+h2{
+    align-items: center;
+    text-align: center;
+}
+
+.contador {
+    text-align: center;
+    margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    align-items: center;
+    display: table-column;
+    justify-content: center;
+    left: 40%;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
