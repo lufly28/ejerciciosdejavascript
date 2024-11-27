@@ -1,4 +1,4 @@
-# Este repositorotio con tiene:
+# Este repositorio contiene:
 
 Practicas con el lenguaje Javascript
 Contiene:
